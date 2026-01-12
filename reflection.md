@@ -1,0 +1,3 @@
+The developing process was overall fun. I started with my homepage without having a clear theme until I made a specific page for Broncos and decided to make it the theme of the website. What i found the most difficult was learning how to insert a form into the page and making it open your computers default mail server to contact me. That was the most difficult part which I used w3schools website to learn how to do the form. I also had to learn how to link the directory gallery to my other pages. I simply did a goolge search and was able to link it. Overall the project was fun and I learned a lot. 
+
+I am submitting this without uploading my website to my CS Unix account. They are still working on fixing my home directory, I will upload the site as soon as I can
